@@ -30,7 +30,7 @@ This project is created to address the healthcare related problems where the cur
 <img width="960" alt="Screenshot 2023-09-05 010016" src="https://github.com/pushpendersinghMRU/FRT-project/assets/79822198/1e5ba5ef-6c2c-42c4-885a-8fd8f9ac7d80">
 
 ## My Project Demo Video URL
-
+https://drive.google.com/file/d/1qgGcdc_QDcL1uT7uV8IFvz4qLquh-JbC/view?usp=sharing
 
 
 
