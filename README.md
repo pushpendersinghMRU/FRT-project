@@ -1,3 +1,3 @@
-# FRT-project
-This is my project for the virtual internship offered by Microsoft and the program name is FRT program.
-#Azure demo url : https://blue-tree-08b8a3d10.3.azurestaticapps.net
+# FRT Internship project - MyMED created by Pushpender Singh
+This project is created to address the healthcare related problems where the current healthcare landscape faces numerous challenges, including limited access to specialized medical services, lengthy wait times for consultations, difficulties in obtaining diagnostic tests, and inconvenience in acquiring prescribed medications. Through this project doctor consultations, diagnostic testing, and medication delivery are made more accessible, convenient, and efficient for patients.
+## Azure demo url : https://blue-tree-08b8a3d10.3.azurestaticapps.net
